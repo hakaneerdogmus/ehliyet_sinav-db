@@ -414,22 +414,22 @@
             {
                 "harf": "A",
                 "metin": "",
-                "gorsel": "assets/images/16-A.png"
+                "gorsel": "16-A.png"
             },
             {
                 "harf": "B",
                 "metin": "",
-                "gorsel": "assets/images/16-B.png"
+                "gorsel": "16-B.png"
             },
             {
                 "harf": "C",
                 "metin": "",
-                "gorsel": "assets/images/16-C.png"
+                "gorsel": "16-C.png"
             },
             {
                 "harf": "D",
                 "metin": "",
-                "gorsel": "assets/images/16-D.png"
+                "gorsel": "16-D.png"
             }
         ],
         "dogru_cevap": "A",
