@@ -1,0 +1,1356 @@
+[
+    {
+        "id": 1,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi ilk yardımcıda bulunması gereken özelliklerdendir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Telaşlı ve tedirgin olması"
+            },
+            {
+                "harf": "B",
+                "metin": "İletişim becerilerinin zayıf olması"
+            },
+            {
+                "harf": "C",
+                "metin": "Önce çevrenin güvenliğini sağlaması"
+            },
+            {
+                "harf": "D",
+                "metin": "İnsan vücudu ile ilgili temel bilgilere sahip olması"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Bir ilk yardımcı öncelikle kendi güvenliğini ve daha sonra çevre güvenliğini sağlamalı, insan vücudu ile ilgili temel bilgilere sahip olmalıdır."
+    },
+    {
+        "id": 2,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak \"iyi misiniz?\" diye sorularak değerlendirmesi yapılır. Yukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "dolaşım"
+            },
+            {
+                "harf": "B",
+                "metin": "bilinç durumu"
+            },
+            {
+                "harf": "C",
+                "metin": "solunum"
+            },
+            {
+                "harf": "D",
+                "metin": "hava yolu açıklığı"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Kazazedenin bilinç durumunun kontrolü, temel yaşam desteği adımlarının ilkidir."
+    },
+    {
+        "id": 3,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "I. El freninin çekilmesi\nII. Kontağın kapatılması\nIII. LPG'li ise aracın bagajında bulunan tüpün vanasının kapatılması\nYukarıdakilerden hangileri kazaya uğrayan araçta alınması gereken güvenlik önlemlerindendir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Yalnız I."
+            },
+            {
+                "harf": "B",
+                "metin": "I ve II."
+            },
+            {
+                "harf": "C",
+                "metin": "II ve III."
+            },
+            {
+                "harf": "D",
+                "metin": "I, II ve III."
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Kazazedenin ve çevrenin güvenliği için tüm bu önlemlerin alınması zorunludur."
+    },
+    {
+        "id": 4,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "• Bir el alına yerleştirilir. • Diğer elin iki parmağı çene kemiğinin üzerine yerleştirilir. • Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir. Uygulama basamakları verilen ve kazazedenin hava yolunu açmak için kullanılan pozisyon aşağıdakilerden hangisidir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Şok pozisyonu"
+            },
+            {
+                "harf": "B",
+                "metin": "Yarı oturuş pozisyonu"
+            },
+            {
+                "harf": "C",
+                "metin": "Baş geri-çene yukarı pozisyonu"
+            },
+            {
+                "harf": "D",
+                "metin": "Yarı yüzükoyun-yan pozisyon"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Bu pozisyon, dilde geriye kayma sonucu tıkanmayı önlemek için uygulanır ve 'Baş geri-çene yukarı' manevrası olarak bilinir. [Image of Baş geri çene yukarı pozisyonu]"
+    },
+    {
+        "id": 5,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Yetişkin bir kazazedenin solunum yapıp yapmadığı bak-dinle-hisset yöntemiyle kaç saniye süre ile kontrol edilir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "10"
+            },
+            {
+                "harf": "B",
+                "metin": "20"
+            },
+            {
+                "harf": "C",
+                "metin": "30"
+            },
+            {
+                "harf": "D",
+                "metin": "40"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Solunum kontrolü en az 10 saniye süre ile yapılmalıdır."
+    },
+    {
+        "id": 6,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdaki durumların hangisinde kazazedeye Heimlich Manevrası uygulanır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Kan şekeri düştüğünde"
+            },
+            {
+                "harf": "B",
+                "metin": "Tam tıkanma yaşadığında"
+            },
+            {
+                "harf": "C",
+                "metin": "Kanaması olduğunda"
+            },
+            {
+                "harf": "D",
+                "metin": "Kalbi durduğunda"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Heimlich Manevrası, solunum yolunun tamamen tıkanması durumunda uygulanır. [Image of Heimlich Manevrası]"
+    },
+    {
+        "id": 7,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi atardamar kanamalarının özelliklerindendir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Kanamanın sızıntı şeklinde olması"
+            },
+            {
+                "harf": "B",
+                "metin": "Kanın koyu renkli ve küçük kabarcıklar şeklinde akması"
+            },
+            {
+                "harf": "C",
+                "metin": "Açık renkli kanın kalp atımları ile uyumlu olarak kesik kesik akması"
+            },
+            {
+                "harf": "D",
+                "metin": "Kanamanın fışkırma olmadan akması ve kısa sürede durdurulabilmesi"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Atardamar kanamaları, kalpten temiz kan taşıdığı için açık kırmızı renkli olup, kalp atışıyla uyumlu kesik kesik ve fışkırır tarzda akar."
+    },
+    {
+        "id": 8,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi dış kanamalarda yapılan hatalı ilk yardım uygulamalarındandır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Kanayan bölgeyi aşağıya indirmek"
+            },
+            {
+                "harf": "B",
+                "metin": "Kanayan yer üzerine temiz bir bezle bastırmak"
+            },
+            {
+                "harf": "C",
+                "metin": "Uzuv kopması varsa boğucu sargı (turnike) uygulamak"
+            },
+            {
+                "harf": "D",
+                "metin": "Kanayan yere en yakın basınç noktasına baskı uygulamak"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Kanayan bölgenin kalp seviyesinin altında tutulması, kan akışını artırarak kanamayı hızlandırır. Bu nedenle kanayan bölge yukarı kaldırılmalıdır."
+    },
+    {
+        "id": 9,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi delici karın yaralanması olan kazazedeye yapılması gereken ilk yardım uygulamalarından biri değildir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Bilinç kontrolünün yapılması"
+            },
+            {
+                "harf": "B",
+                "metin": "Yaşam bulgularının sık sık izlenmesi"
+            },
+            {
+                "harf": "C",
+                "metin": "Dışarı çıkan organlarının içeri sokulmaya çalışılması"
+            },
+            {
+                "harf": "D",
+                "metin": "Bilinci yerinde ise sırtüstü pozisyonda bacakları bükülmüş olarak yatırılması"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Delici karın yaralanmalarında dışarı çıkan organlar asla içeri sokulmaya çalışılmaz, üzeri nemli ve temiz bir bezle kapatılır."
+    },
+    {
+        "id": 10,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi çıkıklarda yapılması gereken ilk yardım uygulamalarındandır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Çıkığın yerine oturtulmaya çalışılması"
+            },
+            {
+                "harf": "B",
+                "metin": "Eklemin düzeltildikten sonra tespit edilmesi"
+            },
+            {
+                "harf": "C",
+                "metin": "Çıkık olan bölgeye kuvvetli masaj yapılması"
+            },
+            {
+                "harf": "D",
+                "metin": "Bölgenin nabzının, deri renginin ve ısısının kontrol edilmesi"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Çıkık, kırık ve burkulmalarda bölgeyi hareket ettirmemek ve sinir/dolaşım hasarı olup olmadığını kontrol etmek önemlidir."
+    },
+    {
+        "id": 11,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Beyne giden kan akışının azalması sonucu oluşan kısa süreli, yüzeysel ve geçici bilinç kaybına ne ad verilir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Koma"
+            },
+            {
+                "harf": "B",
+                "metin": "Bayılma"
+            },
+            {
+                "harf": "C",
+                "metin": "Sara krizi"
+            },
+            {
+                "harf": "D",
+                "metin": "Ateşli havale"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Bayılma (senkop), geçici ve kısa süreli bilinç kaybıdır."
+    },
+    {
+        "id": 12,
+        "kategori": "İlk Yardım",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Kaza sonrası solunum durması, yangın tehlikesi, patlama gibi tehlikeli durumların olasılığı mevcut ise kazazedenin omuriliğine zarar vermeden araçtan çıkarılmasında kullanılan teknik aşağıdakilerden hangisidir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Rentek manevrası"
+            },
+            {
+                "harf": "B",
+                "metin": "İtfaiyeci yöntemi ile omuzda taşıma"
+            },
+            {
+                "harf": "C",
+                "metin": "Ayak bileklerinden sürükleme yöntemi"
+            },
+            {
+                "harf": "D",
+                "metin": "Koltuk altından tutarak sürükleme yöntemi"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Rentek manevrası, omurilik yaralanmasını engellemek amacıyla araçtan çıkarma işlemidir. "
+    },
+    {
+        "id": 13,
+        "kategori": "Trafik Adabı",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Alkol en çok beyin hücrelerini etkilemekte ve merkezi sinir sisteminde olumsuz etki yapmaktadır. Buna göre aşağıdakilerden hangisi bu durumun sonuçlarındandır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Karar verme ve kendini kontrol edebilme yeteneğinin azalması"
+            },
+            {
+                "harf": "B",
+                "metin": "Yollarda tehdit unsuru oluşumunun azalması"
+            },
+            {
+                "harf": "C",
+                "metin": "Kaza yapma riskinin azalması"
+            },
+            {
+                "harf": "D",
+                "metin": "Sürüş yeteneğinin artması"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Alkol, beyin fonksiyonlarını yavaşlatarak dikkat, koordinasyon ve karar verme yeteneğini olumsuz etkiler."
+    },
+    {
+        "id": 14,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi tüm kara yollarındaki işaretleme standartlarının tespiti, yayınlanması ve kontrolü ile görevlidir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Sağlık Bakanlığı"
+            },
+            {
+                "harf": "B",
+                "metin": "Millî Eğitim Bakanlığı"
+            },
+            {
+                "harf": "C",
+                "metin": "Emniyet Genel Müdürlüğü"
+            },
+            {
+                "harf": "D",
+                "metin": "Karayolları Genel Müdürlüğü"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Karayolları Genel Müdürlüğü, şehirlerarası yollar dahil olmak üzere trafik işaretleme ve yol standartlarından sorumludur."
+    },
+    {
+        "id": 15,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Kamu hizmeti yapan yolcu taşıtlarının yolcu veya hizmetlileri bindirmeleri, indirmeleri veya duraklamaları için yatay ve düşey işaretlerle belirlenmiş yere ne ad verilir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Garaj"
+            },
+            {
+                "harf": "B",
+                "metin": "Durak"
+            },
+            {
+                "harf": "C",
+                "metin": "Otopark"
+            },
+            {
+                "harf": "D",
+                "metin": "Park yeri"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Tanımı yapılan yer Durak'tır."
+    },
+    {
+        "id": 16,
+        "kategori": "Trafik İşaretleri",
+        "tip": "gorselli",
+        "soru_metni": "Aşağıdakilerden hangisi iki yönlü trafik işaret levhasıdır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "",
+                "gorsel": "assets/images/16-A.png"
+            },
+            {
+                "harf": "B",
+                "metin": "",
+                "gorsel": "assets/images/16-B.png"
+            },
+            {
+                "harf": "C",
+                "metin": "",
+                "gorsel": "assets/images/16-C.png"
+            },
+            {
+                "harf": "D",
+                "metin": "",
+                "gorsel": "assets/images/16-D.png"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Görseldeki levha (dikey oklarla iki yönü gösteren) iki yönlü trafiği bildirir. "
+    },
+    {
+        "id": 17,
+        "kategori": "Trafik İşaretleri",
+        "tip": "gorselli",
+        "soru_metni": "Şekildeki trafik işaretini (sağa tehlikeli viraj) gören sürücü aşağıdakilerden hangisini yapmalıdır?",
+        "gorsel_url": "assets/images/17.png",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Banketten gitmelidir."
+            },
+            {
+                "harf": "B",
+                "metin": "Aracının hızını artırmalıdır."
+            },
+            {
+                "harf": "C",
+                "metin": "Öndeki aracı geçmemelidir."
+            },
+            {
+                "harf": "D",
+                "metin": "Geçiş hakkını kendisi kullanmalıdır."
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Tehlikeli viraj işaretini gören sürücü hızını azaltmalı ve sollama yapmamalıdır. "
+    },
+    {
+        "id": 18,
+        "kategori": "Trafik İşaretleri",
+        "tip": "gorselli",
+        "soru_metni": "Aşağıdakilerden hangisi karşıdan gelene yol ver anlamındadır?",
+        "gorsel_url": "assets/images/soru18.png",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Giriş yasağı"
+            },
+            {
+                "harf": "B",
+                "metin": "Karşıdan gelene yol ver"
+            },
+            {
+                "harf": "C",
+                "metin": "Mecburi yön"
+            },
+            {
+                "harf": "D",
+                "metin": "Dur"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Görseldeki levha, dar taşıt yollarında karşıdan gelen trafiğe yol verilmesi gerektiğini gösterir. "
+    },
+    {
+        "id": 19,
+        "kategori": "Trafik İşaretleri",
+        "tip": "gorselli",
+        "soru_metni": "Aşağıdaki trafik işaretlerinden hangisi tali yolda bulunur?",
+        "gorsel_url": "assets/images/soru19.png",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Ana yol - Tali yol kavşağı"
+            },
+            {
+                "harf": "B",
+                "metin": "Işıklı işaret cihazı"
+            },
+            {
+                "harf": "C",
+                "metin": "Dur (Sekizgen levha)"
+            },
+            {
+                "harf": "D",
+                "metin": "Okul geçidi"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Dur (Sekizgen) ve Yol Ver (Ters Üçgen) işaretleri tali yollarda bulunur ve ana yoldaki trafiğe öncelik tanınmasını emreder."
+    },
+    {
+        "id": 20,
+        "kategori": "Trafik Kuralları",
+        "tip": "gorselli",
+        "soru_metni": "Taşıt yolu üzerine çizilen şekildeki çizgilerin anlamı nedir? ",
+        "gorsel_url": "assets/images/soru20.png",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Yaya geçidi"
+            },
+            {
+                "harf": "B",
+                "metin": "Bisiklet yolu"
+            },
+            {
+                "harf": "C",
+                "metin": "Taralı alana girilmez"
+            },
+            {
+                "harf": "D",
+                "metin": "Yavaşlama uyarı çizgileri"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Boyları gittikçe kısalan ve birbirine yaklaşan yatay çizgiler, sürücüyü yavaşlaması gerektiği konusunda uyarır. "
+    },
+    {
+        "id": 21,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Trafik kuruluşunca, uyuşturucu veya uyarıcı madde kullandığı tespit edilen sürücüye aşağıdaki işlemlerden hangisi uygulanır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Sürücü belgesi 5 yıl süreyle geçici olarak geri alınır."
+            },
+            {
+                "harf": "B",
+                "metin": "Sadece şehir içinde araç sürmesine izin verilir."
+            },
+            {
+                "harf": "C",
+                "metin": "Sürücü belgesi 6 ay süreyle geri alınır."
+            },
+            {
+                "harf": "D",
+                "metin": "Sadece para cezası verilir."
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Uyuşturucu madde etkisinde araç kullanmanın cezası, ilk tespitte 5 yıl süreyle ehliyetin geri alınmasıdır."
+    },
+    {
+        "id": 22,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aksine bir işaret bulunmadıkça otoyolda minibüs ve otobüsler için azami hız saatte kaç kilometredir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "80"
+            },
+            {
+                "harf": "B",
+                "metin": "90"
+            },
+            {
+                "harf": "C",
+                "metin": "100"
+            },
+            {
+                "harf": "D",
+                "metin": "110"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Otoyolda otobüsler ve minibüsler için azami hız 100 km/s'dir. (Otomobiller için 120 km/s)."
+    },
+    {
+        "id": 23,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Arkadan çarpma şeklindeki trafik kazalarının en önemli sebebi aşağıdakilerden hangisidir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Öndeki aracın durması"
+            },
+            {
+                "harf": "B",
+                "metin": "Öndeki aracın yavaşlaması"
+            },
+            {
+                "harf": "C",
+                "metin": "Görüş mesafesinin kötü olması"
+            },
+            {
+                "harf": "D",
+                "metin": "Takip mesafesi kurallarına uyulmaması"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Takip mesafesi, öndeki aracın aniden durması durumunda çarpışmayı önlemek için bırakılması gereken minimum mesafedir."
+    },
+    {
+        "id": 24,
+        "kategori": "Trafik Kuralları",
+        "tip": "gorselli",
+        "soru_metni": "Şekle göre hangi numaralı aracın sürücüsü hatalı davranmıştır?",
+        "gorsel_url": "assets/images/soru24.png",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "1"
+            },
+            {
+                "harf": "B",
+                "metin": "2"
+            },
+            {
+                "harf": "C",
+                "metin": "3"
+            },
+            {
+                "harf": "D",
+                "metin": "4"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "3 numaralı araç, şerit çizgilerini ihlal ederek hatalı bir geçiş yapmaktadır. "
+    },
+    {
+        "id": 25,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Manevra yapacak sürücü aşağıdakilerden hangisini yapmalıdır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Ön, arka ve yanlardaki trafiği kontrol etmeli"
+            },
+            {
+                "harf": "B",
+                "metin": "İşaret verdiği anda manevraya başlamalı"
+            },
+            {
+                "harf": "C",
+                "metin": "Manevraya başladıktan sonra işaret vermeli"
+            },
+            {
+                "harf": "D",
+                "metin": "Manevra bitmeden önce işaret vermeyi sona erdirmeli"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Manevradan önce tehlike yaratmamak için aynalar ve kör noktalar dahil tüm trafik kontrol edilmelidir."
+    },
+    {
+        "id": 26,
+        "kategori": "Trafik Kuralları",
+        "tip": "gorselli",
+        "soru_metni": "Şekildeki akaryakıt istasyonundan çıkmak isteyen 2 numaralı aracın sürücüsü ne yapmalıdır?",
+        "gorsel_url": "assets/images/soru26.png",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Korna çalıp 1 numaralı aracı durdurmalı"
+            },
+            {
+                "harf": "B",
+                "metin": "1 numaralı aracın geçmesini beklemeli"
+            },
+            {
+                "harf": "C",
+                "metin": "Hızlanarak yoluna devam etmeli"
+            },
+            {
+                "harf": "D",
+                "metin": "Geçiş hakkını kendisi kullanmalı"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Akaryakıt istasyonu çıkışı bir 'mülkten çıkış' kabul edilir ve ana yoldaki araçlara (1 numaralı araç) her zaman yol verilmelidir."
+    },
+    {
+        "id": 27,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Geçiş üstünlüğüne sahip araç sürücüsü, bu hakkı kullanırken aşağıdakilerden hangisine dikkat etmek zorundadır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Hız sınırlamasına"
+            },
+            {
+                "harf": "B",
+                "metin": "Trafik yasaklarına"
+            },
+            {
+                "harf": "C",
+                "metin": "Çevreyi rahatsız etmemeye"
+            },
+            {
+                "harf": "D",
+                "metin": "Can ve mal güvenliğini tehlikeye sokmamaya"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Geçiş üstünlüğü hakkı kullanılırken bile, temel kural olan can ve mal güvenliğini tehlikeye atmama zorunluluğu devam eder."
+    },
+    {
+        "id": 28,
+        "kategori": "Trafik Kuralları",
+        "tip": "gorselli",
+        "soru_metni": "Şekildeki aracın sürücüsü, kamu hizmeti yapan yolcu taşıtı durağının en az kaç metre mesafe dışına aracını park edebilir?",
+        "gorsel_url": "assets/images/soru28.png",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "5"
+            },
+            {
+                "harf": "B",
+                "metin": "10"
+            },
+            {
+                "harf": "C",
+                "metin": "15"
+            },
+            {
+                "harf": "D",
+                "metin": "20"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Yolcu taşıtı (otobüs, tramvay) duraklarının 15 metre yakınına park etmek yasaktır. "
+    },
+    {
+        "id": 29,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Geceleyin, görüşün yeterli olmadığı kavşağa yaklaşan sürücü gelişini nasıl haber vermelidir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Birkaç defa selektör yaparak"
+            },
+            {
+                "harf": "B",
+                "metin": "Acil uyarı ışıklarını yakarak"
+            },
+            {
+                "harf": "C",
+                "metin": "Birkaç defa korna çalarak"
+            },
+            {
+                "harf": "D",
+                "metin": "Dönüş ışıklarını yakarak"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Geceleyin, yaklaşan tehlikeyi veya varlığı bildirmek için kısa ve uzun farların art arda yakılması (selektör) kullanılır."
+    },
+    {
+        "id": 30,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "I. Yüklerin üzerine yolcu bindirilmesi\nII. Kasanın yan ve arka kapaklarının kapalı olması\nIII. Yüklerin sağlam olarak yerleştirilmiş ve bağlanmış olması\nKamyon, kamyonet ve römorklarda yükle birlikte yolcu taşınırken yukarıda verilenlerden hangilerinin yapılması zorunludur?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Yalnız I."
+            },
+            {
+                "harf": "B",
+                "metin": "I ve II."
+            },
+            {
+                "harf": "C",
+                "metin": "II ve III."
+            },
+            {
+                "harf": "D",
+                "metin": "I, II ve III."
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Yüklerin üzerine yolcu bindirilmesi yasaktır (I yanlış). Kasanın kapalı ve yüklerin sabitlenmiş olması zorunludur."
+    },
+    {
+        "id": 31,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Park hâlindeki araca çarpan sürücünün aşağıdakilerden hangisini yapması yanlıştır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Aracın sahibini bulamazsa yazılı bilgi bırakması"
+            },
+            {
+                "harf": "B",
+                "metin": "Zarar fazla değilse olay yerinden uzaklaşması"
+            },
+            {
+                "harf": "C",
+                "metin": "Zarar verdiği aracın sahibini bulması"
+            },
+            {
+                "harf": "D",
+                "metin": "Trafik görevlisine haber vermesi"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Maddi hasarlı kazalarda dahi, tarafların birbirine bilgi vermesi veya trafik görevlilerini çağırması yasal zorunluluktur. Olay yerinden kaçmak yanlıştır."
+    },
+    {
+        "id": 32,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "I. Reflektör\nII. İlk yardım çantası\nIII. Yangın söndürme cihazı\nYukarıdakilerden hangilerinin otomobillerde bulundurulması zorunludur?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Yalnız I."
+            },
+            {
+                "harf": "B",
+                "metin": "I ve II."
+            },
+            {
+                "harf": "C",
+                "metin": "II ve III."
+            },
+            {
+                "harf": "D",
+                "metin": "I, II ve III."
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Bu üç malzeme (reflektör, ilk yardım çantası, yangın söndürme cihazı) otomobillerde bulundurulması zorunlu olan teçhizatlardandır."
+    },
+    {
+        "id": 33,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi Karayolları Trafik Kanunu'na göre sürücü olabilmenin şartlarından biri değildir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Bir meslek sahibi olmak"
+            },
+            {
+                "harf": "B",
+                "metin": "Belirli bir eğitim seviyesine sahip olmak"
+            },
+            {
+                "harf": "C",
+                "metin": "Kullanacağı araca göre belirli bir yaşın üzerinde olmak"
+            },
+            {
+                "harf": "D",
+                "metin": "Sürücülük yapmaya uygun olduğunu gösterir sağlık raporu almak"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Sürücü belgesi almak için meslek sahibi olma şartı yoktur; yaş, eğitim ve sağlık şartları aranır."
+    },
+    {
+        "id": 34,
+        "kategori": "Trafik Kuralları",
+        "tip": "dogru_yanlis",
+        "soru_metni": "Aracın hızı arttıkça fren mesafesi azalır. • Yol yüzeyinde su birikmesi, buz ya da kar olması fren mesafesini artıran faktörlerdendir. Fren mesafesi ile ilgili verilen cümleler doğru (D) - yanlış (Y) olarak değerlendirildiğinde sıralama aşağıdakilerden hangisi olur?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "D - Y"
+            },
+            {
+                "harf": "B",
+                "metin": "Y - D"
+            },
+            {
+                "harf": "C",
+                "metin": "D - D"
+            },
+            {
+                "harf": "D",
+                "metin": "Y - Y"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Hız arttıkça fren mesafesi ARTAR (Yanlış). Yol yüzeyindeki kötü koşullar fren mesafesini ARTIRIR (Doğru). Sıralama Y - D olmalıdır."
+    },
+    {
+        "id": 35,
+        "kategori": "Trafik Adabı",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi atıkların çevreye verdiği zararlardan biri değildir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Kötü koku yayması"
+            },
+            {
+                "harf": "B",
+                "metin": "Çirkin görünüm arz etmesi"
+            },
+            {
+                "harf": "C",
+                "metin": "Hastalık bulaştıran zararlıların üremesine sebep olması"
+            },
+            {
+                "harf": "D",
+                "metin": "Toplanıp işlenerek tekrar kullanılabilir hâle getirilmesi"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Atıkların toplanıp işlenerek tekrar kullanılması (geri dönüşüm), çevreye zarar değil, faydadır."
+    },
+    {
+        "id": 36,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi araçlarda gücün kaynağıdır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Şaft"
+            },
+            {
+                "harf": "B",
+                "metin": "Motor"
+            },
+            {
+                "harf": "C",
+                "metin": "Tekerlek"
+            },
+            {
+                "harf": "D",
+                "metin": "Vites kutusu"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Hareket ve güç, motordan elde edilir ve aktarma organları ile tekerleklere iletilir."
+    },
+    {
+        "id": 37,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi buji ile ateşlemeli motorların yakıtıdır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Benzin"
+            },
+            {
+                "harf": "B",
+                "metin": "Motorin"
+            },
+            {
+                "harf": "C",
+                "metin": "Antifriz"
+            },
+            {
+                "harf": "D",
+                "metin": "Gaz yağı"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Benzinli motorlar buji ile ateşlenir. Motorin (Dizel) motorlar ise sıkıştırma ile ateşlenir."
+    },
+    {
+        "id": 38,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "gorselli",
+        "soru_metni": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
+        "gorsel_url": "assets/images/soru38.png",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Karterdeki yağ miktarını"
+            },
+            {
+                "harf": "B",
+                "metin": "Depodaki yakıt miktarını"
+            },
+            {
+                "harf": "C",
+                "metin": "Soğutma suyu sıcaklığını"
+            },
+            {
+                "harf": "D",
+                "metin": "Radyatördeki su seviyesini"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Bu gösterge, motorun soğutma suyu sıcaklığını (hararet) bildirir. [Image of Hararet göstergesi]"
+    },
+    {
+        "id": 39,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Yakıt içerisinde toz, su veya pislik varsa motor nasıl çalışır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Yüksek devirde"
+            },
+            {
+                "harf": "B",
+                "metin": "Zengin karışımla"
+            },
+            {
+                "harf": "C",
+                "metin": "Yüksek performansla"
+            },
+            {
+                "harf": "D",
+                "metin": "Düzensiz, tekleyerek"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Yakıt içindeki yabancı maddeler, yakıtın doğru şekilde yanmasını engelleyerek düzensiz çalışmaya ve tekleme sorunlarına neden olur."
+    },
+    {
+        "id": 40,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Kışın aşırı soğuktan dolayı motor soğutma suyu donduğu zaman meydana gelen genleşme kuvveti; silindir bloğu, silindir kapağı ve radyatörü çatlatabilir. Buna göre donmayı önlemek için motor soğutma suyuna aşağıdakilerden hangisinin yeterli miktarda karıştırılması gerekir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Asit"
+            },
+            {
+                "harf": "B",
+                "metin": "Antifriz"
+            },
+            {
+                "harf": "C",
+                "metin": "Saf su"
+            },
+            {
+                "harf": "D",
+                "metin": "Motor yağı"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Antifriz, soğutma suyunun donma noktasını düşürerek donmaya bağlı motor hasarlarını önler."
+    },
+    {
+        "id": 41,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Lastiklerin hava basıncı dengesizse frenleme anında aşağıdakilerden hangisi olur?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Araç bir tarafa çeker."
+            },
+            {
+                "harf": "B",
+                "metin": "Fren pedalı sertleşir."
+            },
+            {
+                "harf": "C",
+                "metin": "Frenlerden ses gelir."
+            },
+            {
+                "harf": "D",
+                "metin": "Fren hidroliği azalır."
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Hava basıncı düşük olan lastik, frenleme sırasında daha fazla tutuş sağlayarak aracın o tarafa doğru çekmesine neden olur."
+    },
+    {
+        "id": 42,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisi elektrik devresindeki sigortanın görevidir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Aküyü şarj etmek"
+            },
+            {
+                "harf": "B",
+                "metin": "Bujilere giden akımı yükseltmek"
+            },
+            {
+                "harf": "C",
+                "metin": "Kısa devre olduğunda sistemi korumak"
+            },
+            {
+                "harf": "D",
+                "metin": "Endüksiyon bobinine giden akımı yükseltmek"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Sigorta, kısa devre veya aşırı akım durumunda eriyerek elektrik devresini açar ve sistemdeki diğer bileşenleri korur."
+    },
+    {
+        "id": 43,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Seyir hâlindeyken araçtan \"sürekli yakıt kokusu\" alınması durumunda aşağıdakilerden hangisi yapılır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Açık camlar kapatılır."
+            },
+            {
+                "harf": "B",
+                "metin": "Önemsenmez yola devam edilir."
+            },
+            {
+                "harf": "C",
+                "metin": "Lastiklerin hava basıncı kontrol edilir."
+            },
+            {
+                "harf": "D",
+                "metin": "Trafik kurallarına uyarak durulur ve kontak kapatılır."
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Yakıt kaçağı veya sızıntısı yangın tehlikesi yaratabilir. En kısa sürede güvenli bir yerde durulmalı ve kontak kapatılmalıdır."
+    },
+    {
+        "id": 44,
+        "kategori": "Motor ve Araç Tekniği",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Araçlarda yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılmalıdır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Termostat çıkartılmalı"
+            },
+            {
+                "harf": "B",
+                "metin": "Eskimiş bujiler değiştirilmeli"
+            },
+            {
+                "harf": "C",
+                "metin": "Lastiklerin hava basıncı indirilmeli"
+            },
+            {
+                "harf": "D",
+                "metin": "Motor yüksek devirde çalıştırılmalı"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Eskimiş bujiler verimsiz yanmaya neden olarak yakıt tüketimini artırır. Değiştirilmeleri tasarruf sağlar."
+    },
+    {
+        "id": 45,
+        "kategori": "Trafik Adabı",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır. Bu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi"
+            },
+            {
+                "harf": "B",
+                "metin": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi"
+            },
+            {
+                "harf": "C",
+                "metin": "Karşılıklı saygının öncelikle başkalarından beklenmesi"
+            },
+            {
+                "harf": "D",
+                "metin": "Kızgın ve yarışmacı motivasyon ile araç kullanılması"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Kuralların nedenlerini anlamak, kural ihlali yapmanın potansiyel tehlikelerini idrak etmeyi sağlar."
+    },
+    {
+        "id": 46,
+        "kategori": "Trafik Adabı",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Sürücünün trafik ortamında yaptığı davranışlardan hangisi, diğer sürücülerin dikkatinin dağılmasına ya da paniğe kapılmalarına sebep olabilir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Davranışlarının sonuçlarını düşünerek hareket etmesi"
+            },
+            {
+                "harf": "B",
+                "metin": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması"
+            },
+            {
+                "harf": "C",
+                "metin": "Aracını kullanırken trafik kurallarının bilincinde olması"
+            },
+            {
+                "harf": "D",
+                "metin": "Trafik içindeki davranışlarının sorumluluğunu üstlenerek araç kullanması"
+            }
+        ],
+        "dogru_cevap": "B",
+        "aciklama": "Slalom yaparak araç kullanmak, diğer sürücülerde panik ve dikkat dağınıklığına neden olur."
+    },
+    {
+        "id": 47,
+        "kategori": "Trafik Adabı",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Ters yönden gelen bir sürücüye \"Bu sokak tek yönlü, herhalde siz girişteki levhayı görmediniz, lütfen daha dikkatli olun.\" diyen bir sürücü, trafikte aşağıdaki değerlerden hangisine uygun davranmıştır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "İnatlaşmaya"
+            },
+            {
+                "harf": "B",
+                "metin": "Aşırı tepki göstermeye"
+            },
+            {
+                "harf": "C",
+                "metin": "Kaba ve saldırgan davranmaya"
+            },
+            {
+                "harf": "D",
+                "metin": "Trafik kültüründe birbirini uyarmaya"
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Sakin ve yapıcı bir dille yapılan uyarı, trafik adabı ve karşılıklı saygı kültürünün bir parçasıdır."
+    },
+    {
+        "id": 48,
+        "kategori": "Trafik Adabı",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Geçilmekte olan araç sürücüsünün yavaşlayıp geçme yapan araca kolaylık sağlaması durumu, trafikte aşağıdaki değerlerden hangisiyle ifade edilir?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Bencillik"
+            },
+            {
+                "harf": "B",
+                "metin": "İnatlaşmak"
+            },
+            {
+                "harf": "C",
+                "metin": "Diğergamlık"
+            },
+            {
+                "harf": "D",
+                "metin": "Sorumsuzluk"
+            }
+        ],
+        "dogru_cevap": "C",
+        "aciklama": "Diğergamlık (özgecilik), başkalarının iyiliğini kendi çıkarından üstün tutma anlamına gelir ve bu davranış trafik adabına uygundur."
+    },
+    {
+        "id": 49,
+        "kategori": "Trafik Adabı",
+        "tip": "coktan_secmeli",
+        "soru_metni": "Aşağıdakilerden hangisinin trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "Dikkatin dağılması"
+            },
+            {
+                "harf": "B",
+                "metin": "Kural ihlallerinin azalması"
+            },
+            {
+                "harf": "C",
+                "metin": "Direksiyon hâkimiyetinin artması"
+            },
+            {
+                "harf": "D",
+                "metin": "Kazaya karışma olasılığının azalması"
+            }
+        ],
+        "dogru_cevap": "A",
+        "aciklama": "Öfke, stresi ve dikkatsizliği artırır, bu da dikkatin dağılmasına ve hatalı kararlar alınmasına yol açar."
+    },
+    {
+        "id": 50,
+        "kategori": "Trafik Kuralları",
+        "tip": "coktan_secmeli",
+        "soru_metni": "I. Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi\nII. Köprü ve tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması\nIII. Trafo ve elektrik direğine çarpma gibi durumlarda kesintilerin yaşanması\nIV. Yakıt, kimyasal madde, tıbbi atık vs. yüklü araçların yaptığı kazalar neticesinde büyük ekolojik zararların görülmesi\nYukarıdakilerden hangileri kara yolunda meydana gelen trafik kazalarının kişiye, topluma, kamuya ve çevreye verdiği zararlardandır?",
+        "gorsel_url": "yok",
+        "secenekler": [
+            {
+                "harf": "A",
+                "metin": "I ve II."
+            },
+            {
+                "harf": "B",
+                "metin": "I, III ve IV."
+            },
+            {
+                "harf": "C",
+                "metin": "II, III ve IV."
+            },
+            {
+                "harf": "D",
+                "metin": "I, II, III ve IV."
+            }
+        ],
+        "dogru_cevap": "D",
+        "aciklama": "Tüm maddeler (çevreye, topluma, kamuya) trafik kazalarının neden olduğu zararları ifade eder."
+    }
+]
