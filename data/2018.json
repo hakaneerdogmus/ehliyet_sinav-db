@@ -414,22 +414,22 @@
             {
                 "harf": "A",
                 "metin": "",
-                "gorsel": "16-A.png"
+                "gorsel": "2018-16-A.png"
             },
             {
                 "harf": "B",
                 "metin": "",
-                "gorsel": "16-B.png"
+                "gorsel": "2018-16-B.png"
             },
             {
                 "harf": "C",
                 "metin": "",
-                "gorsel": "16-C.png"
+                "gorsel": "2018-16-C.png"
             },
             {
                 "harf": "D",
                 "metin": "",
-                "gorsel": "16-D.png"
+                "gorsel": "2018-16-D.png"
             }
         ],
         "dogru_cevap": "A",
@@ -440,7 +440,7 @@
         "kategori": "Trafik İşaretleri",
         "tip": "gorselli",
         "soru_metni": "Şekildeki trafik işaretini (sağa tehlikeli viraj) gören sürücü aşağıdakilerden hangisini yapmalıdır?",
-        "gorsel_url": "assets/images/17.png",
+        "gorsel_url": "2018-17.png",
         "secenekler": [
             {
                 "harf": "A",
