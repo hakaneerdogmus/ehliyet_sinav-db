@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Kolay",
         "soru_metni": "Buna göre 112 Acil Yardım Servisinin aranması sırasında dikkat edilecek hususlarla ilgili olarak aşağıdakilerden hangisi doğrudur?",
@@ -29,7 +29,7 @@
     },
     {
         "id": 2,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Orta",
         "soru_metni": "Kanın vücuttaki görevleriyle ilgili olarak verilenlerden hangisi yanlıştır?",
@@ -57,7 +57,7 @@
     },
     {
         "id": 3,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Zor",
         "soru_metni": "Boyun travması olmayan bilinci kapalı bir kazazedenin hava yolu açıklığını sağlamak için aşağıdaki uygulamaları yapan ilk yardımcının, hangi seçenekteki davranışı hatalıdır?",
@@ -85,7 +85,7 @@
     },
     {
         "id": 4,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Orta",
         "soru_metni": "Çocuklarda temel yaşam desteği uygulamasıyla ilgili verilenlerden hangisi doğrudur?",
@@ -113,7 +113,7 @@
     },
     {
         "id": 5,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Kolay",
         "soru_metni": "Öksüren, nefes alabilen ve tıkandığını ifade edebilen bir kazazedeye aşağıdaki ilk yardım uygulamalarından hangisi yapılır?",
@@ -141,7 +141,7 @@
     },
     {
         "id": 6,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Orta",
         "soru_metni": "Baş ve yüzdeki ağır kanamalarda, aşağıdaki bası noktalarından hangisine basınç uygulanır?",
@@ -169,7 +169,7 @@
     },
     {
         "id": 7,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Kolay",
         "soru_metni": "Burun kanaması olan kazazedeye hangi pozisyonu vermek gerekir?",
@@ -197,7 +197,7 @@
     },
     {
         "id": 8,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Zor",
         "soru_metni": "Verilenlerden hangileri delici göğüs yaralanmalarında yapılacak ilk yardım uygulamalarındandır?\nI. Yaşam bulguları ve yaranın durumunun değerlendirilmesi\nII. Sıvı ve enerji kaybını önlemek için ağızdan yiyecek, içecek verilmesi\nIII. Göğüste saplanmış bir cisim varsa çıkartılmadan cismin etrafının temiz bezlerle desteklenerek sabitlenmesi",
@@ -225,7 +225,7 @@
     },
     {
         "id": 9,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "gorsel",
         "zorluk": "Orta",
         "soru_metni": "Resimde görülen uygulama hangi kırıkların tespiti için yapılır?",
@@ -253,7 +253,7 @@
     },
     {
         "id": 10,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Orta",
         "soru_metni": "Aşağıdakilerden hangisi sara krizi yaşayan kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
@@ -281,7 +281,7 @@
     },
     {
         "id": 11,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Kolay",
         "soru_metni": "Kan şekeri düşüklüğü yaşayan bir kazazedede aşağıdaki belirtilerden hangisi görülür?",
@@ -309,7 +309,7 @@
     },
     {
         "id": 12,
-        "kategori": "İLK YARDIM",
+        "kategori": "İlk Yardım",
         "tip": "metin",
         "zorluk": "Orta",
         "soru_metni": "Bilinci kapalı, solunumu ve dolaşımı olmayan kazazedenin omuriliğine zarar vermeden araç içinden çıkarılması için aşağıdaki tekniklerden hangisi kullanılmalıdır?",
