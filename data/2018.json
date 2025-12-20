@@ -467,23 +467,27 @@
         "kategori": "Trafik İşaretleri",
         "tip": "gorselli",
         "soru_metni": "Aşağıdakilerden hangisi karşıdan gelene yol ver anlamındadır?",
-        "gorsel_url": "assets/images/soru18.png",
+        "gorsel_url": "yok",
         "secenekler": [
             {
                 "harf": "A",
-                "metin": "Giriş yasağı"
+                "metin": ""
+                "gorsel": "2018-18-A.png"
             },
             {
                 "harf": "B",
-                "metin": "Karşıdan gelene yol ver"
+                "metin": ""
+                "gorsel": "2018-18-B.png"
             },
             {
                 "harf": "C",
-                "metin": "Mecburi yön"
+                "metin": ""
+                "gorsel": "2018-18-C.png"
             },
             {
                 "harf": "D",
-                "metin": "Dur"
+                "metin": ""
+                "gorsel": "2018-18-D.png"
             }
         ],
         "dogru_cevap": "B",
@@ -494,23 +498,27 @@
         "kategori": "Trafik İşaretleri",
         "tip": "gorselli",
         "soru_metni": "Aşağıdaki trafik işaretlerinden hangisi tali yolda bulunur?",
-        "gorsel_url": "assets/images/soru19.png",
+        "gorsel_url": "yok",
         "secenekler": [
             {
                 "harf": "A",
-                "metin": "Ana yol - Tali yol kavşağı"
+                "metin": ""
+                "gorsel": "2018-19-A.png"
             },
             {
                 "harf": "B",
-                "metin": "Işıklı işaret cihazı"
+                "metin": ""
+                "gorsel": "2018-19-B.png"
             },
             {
                 "harf": "C",
-                "metin": "Dur (Sekizgen levha)"
+                "metin": ""
+                "gorsel": "2018-19-C.png"
             },
             {
                 "harf": "D",
-                "metin": "Okul geçidi"
+                "metin": ""
+                "gorsel": "2018-19-D.png"
             }
         ],
         "dogru_cevap": "C",
@@ -521,7 +529,7 @@
         "kategori": "Trafik Kuralları",
         "tip": "gorselli",
         "soru_metni": "Taşıt yolu üzerine çizilen şekildeki çizgilerin anlamı nedir? ",
-        "gorsel_url": "assets/images/soru20.png",
+        "gorsel_url": "2018-20.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -629,7 +637,7 @@
         "kategori": "Trafik Kuralları",
         "tip": "gorselli",
         "soru_metni": "Şekle göre hangi numaralı aracın sürücüsü hatalı davranmıştır?",
-        "gorsel_url": "assets/images/soru24.png",
+        "gorsel_url": "2018-24.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -683,7 +691,7 @@
         "kategori": "Trafik Kuralları",
         "tip": "gorselli",
         "soru_metni": "Şekildeki akaryakıt istasyonundan çıkmak isteyen 2 numaralı aracın sürücüsü ne yapmalıdır?",
-        "gorsel_url": "assets/images/soru26.png",
+        "gorsel_url": "2018-26.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -737,7 +745,7 @@
         "kategori": "Trafik Kuralları",
         "tip": "gorselli",
         "soru_metni": "Şekildeki aracın sürücüsü, kamu hizmeti yapan yolcu taşıtı durağının en az kaç metre mesafe dışına aracını park edebilir?",
-        "gorsel_url": "assets/images/soru28.png",
+        "gorsel_url": "2018-28.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -1007,7 +1015,7 @@
         "kategori": "Motor ve Araç Tekniği",
         "tip": "gorselli",
         "soru_metni": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
-        "gorsel_url": "assets/images/soru38.png",
+        "gorsel_url": "2018-38.png",
         "secenekler": [
             {
                 "harf": "A",
