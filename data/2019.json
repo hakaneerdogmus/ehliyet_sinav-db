@@ -230,7 +230,7 @@
         "zorluk": "Orta",
         "soru_metni": "Resimde görülen uygulama hangi kırıkların tespiti için yapılır?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q9.png",
+        "gorsel_url": "2019-9.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -426,7 +426,7 @@
         "zorluk": "Orta",
         "soru_metni": "Şekildeki trafik işaretlerine göre 1 numaralı araç sürücü nasıl davranmalıdır?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q16.png",
+        "gorsel_url": "2019-16.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -454,23 +454,27 @@
         "zorluk": "Orta",
         "soru_metni": "Aşağıdaki tehlike uyarı işaretlerinden hangisi 'gevşek malzemeli zemin' anlamındadır?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q17.png",
+        "gorsel_url": null,
         "secenekler": [
             {
                 "harf": "A",
-                "metin": "Şekil A"
+                "metin": ""
+                "gorsel": "2019-17-A.png"
             },
             {
                 "harf": "B",
-                "metin": "Şekil B"
+                "metin": ""
+                "gorsel": "2019-17-B.png"
             },
             {
                 "harf": "C",
-                "metin": "Şekil C"
+                "metin": ""
+                "gorsel": "2019-17-C.png"
             },
             {
                 "harf": "D",
-                "metin": "Şekil D"
+                "metin": ""
+                "gorsel": "2019-17-D.png"
             }
         ],
         "dogru_cevap": ""
@@ -482,23 +486,27 @@
         "zorluk": "Kolay",
         "soru_metni": "Aşağıdaki trafik işaretlerinden hangisi bir yasaklama veya sınırlama belirtir?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q18.png",
+        "gorsel_url": null,
         "secenekler": [
             {
                 "harf": "A",
-                "metin": "Şekil A"
+                "metin": ""
+                "gorsel": "2019-18-A.png"
             },
             {
                 "harf": "B",
-                "metin": "Şekil B"
+                "metin": ""
+                "gorsel": "2019-18-B.png"
             },
             {
                 "harf": "C",
-                "metin": "Şekil C"
+                "metin": ""
+                "gorsel": "2019-18-C.png"
             },
             {
                 "harf": "D",
-                "metin": "Şekil D"
+                "metin": ""
+                "gorsel": "2019-18-D.png"
             }
         ],
         "dogru_cevap": ""
@@ -510,7 +518,7 @@
         "zorluk": "Orta",
         "soru_metni": "Şekildeki 'park etmek yasaktır' levhasının altına ilave edilen resimli levha sürücüye neyi bildirir?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q19.png",
+        "gorsel_url": "2019-19.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -622,7 +630,7 @@
         "zorluk": "Orta",
         "soru_metni": "Şekildeki trafik tanzim işaretine göre hangi numaralı araçlar geçme yasağına uymamıştır?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q23.png",
+        "gorsel_url": "2019-23.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -650,7 +658,7 @@
         "zorluk": "Orta",
         "soru_metni": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q24.png",
+        "gorsel_url": "2019-24.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -734,7 +742,7 @@
         "zorluk": "Orta",
         "soru_metni": "Şekildeki 'park etme bilgi işaretine' göre hangi numaralı araçlar yanlış park etmiştir?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q27.png",
+        "gorsel_url": "2019-27.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -1042,7 +1050,7 @@
         "zorluk": "Orta",
         "soru_metni": "Gösterge panelinde şekildeki ikaz ışığının yanması aşağıdakilerden hangisini ifade eder?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q38.png",
+        "gorsel_url": "2019-38.png",
         "secenekler": [
             {
                 "harf": "A",
@@ -1182,23 +1190,27 @@
         "zorluk": "Zor",
         "soru_metni": "Seyir halindeyken aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması derhal durmayı gerektirmez?",
         "aciklama": null,
-        "gorsel_url": "assets/images/q43.png",
+        "gorsel_url": null,
         "secenekler": [
             {
                 "harf": "A",
-                "metin": "Şekil A"
+                "metin": ""
+                "gorsel": "2019-43-A.png"
             },
             {
                 "harf": "B",
-                "metin": "Şekil B"
+                "metin": ""
+                "gorsel": "2019-43-B.png"
             },
             {
                 "harf": "C",
-                "metin": "Şekil C"
+                "metin": ""
+                "gorsel": "2019-43-C.png"
             },
             {
                 "harf": "D",
-                "metin": "Şekil D"
+                "metin": ""
+                "gorsel": "2019-43-D.png"
             }
         ],
         "dogru_cevap": "A"
